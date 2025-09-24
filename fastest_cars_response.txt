@@ -1,0 +1,148 @@
+```json
+[
+  {
+    "Year": 1949,
+    "Make and model": "Jaguar XK120",
+    "Horsepower": null,
+    "Top speed (km/h)": 200,
+    "Engine displacement (L)": 3.4,
+    "Engine type": "Inline-6"
+  },
+  {
+    "Year": 1955,
+    "Make and model": "Mercedes-Benz 300SL",
+    "Horsepower": null,
+    "Top speed (km/h)": 242,
+    "Engine displacement (L)": 3.0,
+    "Engine type": "Straight-6"
+  },
+  {
+    "Year": 1959,
+    "Make and model": "Aston Martin DB4 GT",
+    "Horsepower": null,
+    "Top speed (km/h)": 245,
+    "Engine displacement (L)": 3.7,
+    "Engine type": null
+  },
+  {
+    "Year": 1963,
+    "Make and model": "Iso Grifo GL 365",
+    "Horsepower": null,
+    "Top speed (km/h)": 249,
+    "Engine displacement (L)": 5.4,
+    "Engine type": "V8"
+  },
+  {
+    "Year": 1965,
+    "Make and model": "AC Cobra MK III 427",
+    "Horsepower": null,
+    "Top speed (km/h)": 264,
+    "Engine displacement (L)": 7.0,
+    "Engine type": "V8"
+  },
+  {
+    "Year": 1967,
+    "Make and model": "Lamborghini Miura P400",
+    "Horsepower": null,
+    "Top speed (km/h)": 275,
+    "Engine displacement (L)": 4.0,
+    "Engine type": "V12"
+  },
+  {
+    "Year": 1968,
+    "Make and model": "Ferrari 365 GTB/4 Daytona",
+    "Horsepower": null,
+    "Top speed (km/h)": 280,
+    "Engine displacement (L)": 4.4,
+    "Engine type": "V12"
+  },
+  {
+    "Year": 1969,
+    "Make and model": "Lamborghini Miura P400S",
+    "Horsepower": 370,
+    "Top speed (km/h)": 288,
+    "Engine displacement (L)": 3.9,
+    "Engine type": "V12"
+  },
+  {
+    "Year": 1982,
+    "Make and model": "Lamborghini Countach LP500 S",
+    "Horsepower": 375,
+    "Top speed (km/h)": 293,
+    "Engine displacement (L)": 4.8,
+    "Engine type": "V12"
+  },
+  {
+    "Year": 1983,
+    "Make and model": "Ruf BTR",
+    "Horsepower": 374,
+    "Top speed (km/h)": 306,
+    "Engine displacement (L)": 3.4,
+    "Engine type": "Flat-6"
+  },
+  {
+    "Year": 1986,
+    "Make and model": "Porsche 959",
+    "Horsepower": null,
+    "Top speed (km/h)": 319,
+    "Engine displacement (L)": 2.85,
+    "Engine type": "Twin-turbocharged"
+  },
+  {
+    "Year": 1987,
+    "Make and model": "Ruf CTR ‘Yellowbird’",
+    "Horsepower": 469,
+    "Top speed (km/h)": 343,
+    "Engine displacement (L)": 3.4,
+    "Engine type": "Twin-turbocharged Flat-6"
+  },
+  {
+    "Year": 1993,
+    "Make and model": "McLaren F1",
+    "Horsepower": null,
+    "Top speed (km/h)": 386,
+    "Engine displacement (L)": 6.1,
+    "Engine type": "V12"
+  },
+  {
+    "Year": 2005,
+    "Make and model": "Bugatti Veyron EB 16.4",
+    "Horsepower": 1001,
+    "Top speed (km/h)": 407,
+    "Engine displacement (L)": 8.0,
+    "Engine type": "Quad-turbocharged W16"
+  },
+  {
+    "Year": 2007,
+    "Make and model": "SSC Ultimate Aero",
+    "Horsepower": 1183,
+    "Top speed (km/h)": 412,
+    "Engine displacement (L)": 6.3,
+    "Engine type": "Twin-turbocharged V8"
+  },
+  {
+    "Year": 2010,
+    "Make and model": "Bugatti Veyron 16.4 Super Sport",
+    "Horsepower": 1200,
+    "Top speed (km/h)": 431,
+    "Engine displacement (L)": 8.0,
+    "Engine type": "Quad-turbocharged W16"
+  },
+  {
+    "Year": 2014,
+    "Make and model": "Hennessey Venom GT",
+    "Horsepower": 1244,
+    "Top speed (km/h)": 435,
+    "Engine displacement (L)": 7.0,
+    "Engine type": "Twin-turbocharged V8"
+  },
+  {
+    "Year": 2017,
+    "Make and model": "Koenigsegg Agera RS",
+    "Horsepower": null,
+    "Top speed (km/h)": 447,
+    "Engine displacement (L)": 5.0,
+    "Engine type": "Twin-turbocharged V8"
+  }
+]
+```

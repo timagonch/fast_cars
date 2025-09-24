@@ -1,0 +1,18 @@
+[project]
+name = "api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bs4>=0.0.2",
+    "dotenv>=0.9.9",
+    "modal>=1.1.4",
+    "openai>=1.108.1",
+    "pandas>=2.3.2",
+    "pathlib>=1.0.1",
+    "plotly>=6.3.0",
+    "requests>=2.32.5",
+    "streamlit>=1.50.0",
+    "supabase>=2.20.0",
+]
