@@ -10,9 +10,11 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from pathlib import Path
+from dotenv import load_dotenv
 
-endpoint = "https://cdong1--azure-proxy-web-app.modal.run"
-api_key = "supersecretkey"
+load_dotenv()
+endpoint = os.getenv("ENDPOINT_URL")
+api_key = os.getenv("API_KEY")
 deployment_name = "gpt-4o"
 client = OpenAI(
     base_url=endpoint,
